@@ -13,10 +13,13 @@ body {
     font-weight: 400;
     font-style: normal;
     color: #F0F0F0;
+    font-size: 1.5rem;
+
 }
 
 h1 {
     margin-top: 40px;
+    font-size: 3rem;
 }
 
 img {
@@ -35,6 +38,7 @@ img {
 
 main h2 {
     margin-top: 0;
+    font-size: 2.5rem;
 }
 
 .flex {
