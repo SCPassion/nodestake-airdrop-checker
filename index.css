@@ -48,12 +48,17 @@ button {
     font-family: "Orbitron", serif;
 }
 
+input {
+    width: 100%;
+}
+
 input, button {
     padding: 5px 15px;
     cursor: pointer;
     border: none;
     background: rgba(255, 255, 255, 0.2); /* Transparent background for buttons */
     font-size: 1.5rem;
+    margin: 0.2em 0;
 }
 
 button:hover {
